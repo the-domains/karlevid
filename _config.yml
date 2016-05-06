@@ -1,0 +1,28 @@
+name: Karlevid
+favicon: null
+layout_spectrum: 0.5180324770044535
+typography_spectrum: 0.044395661912858486
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4548670712392777
+  lightness: 0.21917964913882315
+  saturation: 0.8908873521722853
+  rhythmicContrast: 0.7060094084590673
+purpose: []
